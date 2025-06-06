@@ -28,7 +28,7 @@
 |-----------------|-----------------------------------------------------------------------------|
 | Backend         | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/DJANGO_REST-ff1709?logo=django&logoColor=white) |
 | Frontend        | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| IA              | ![Gemini AI](https://img.shields.io/badge/Gemini_AI-FF6F00?logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| IA              | ![Gemini AI](https://img.shields.io/badge/Gemini_AI-FF6F00?logo=google&logoColor=white)|
 | Base de Datos   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) |
 
 ## 🍽️ Cómo Funciona
